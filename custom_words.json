@@ -1,0 +1,55 @@
+{
+    "body_parts": {
+        "头部": {
+            "长发": "long hair",
+            "短发": "short hair",
+            "卷发": "curly hair",
+            "直发": "straight hair"
+        },
+        "面部": {
+            "大眼睛": "big eyes",
+            "单眼皮": "monolid",
+            "双眼皮": "double eyelid",
+            "高鼻梁": "high nose bridge"
+        },
+        "手部": {
+            "修长的手指": "slender fingers",
+            "涂指甲": "painted nails"
+        },
+        "腿部": {
+            "长腿": "long legs",
+            "纤细的脚踝": "slim ankles"
+        },
+        "躯干": {
+            "窄腰": "slim waist",
+            "宽肩": "broad shoulders"
+        }
+    },
+    "clothing": {
+        "上衣": {
+            "连帽衫": "hoodie",
+            "背心": "tank top",
+            "polo衫": "polo shirt"
+        },
+        "裤子": {
+            "工装裤": "cargo pants",
+            "阔腿裤": "wide-leg pants",
+            "紧身裤": "skinny pants"
+        },
+        "裙子": {
+            "A字裙": "a-line skirt",
+            "铅笔裙": "pencil skirt",
+            "蓬蓬裙": "puffy skirt"
+        },
+        "鞋子": {
+            "平底鞋": "flats",
+            "马丁靴": "dr martens",
+            "帆布鞋": "canvas shoes"
+        },
+        "配饰": {
+            "太阳镜": "sunglasses",
+            "耳环": "earrings",
+            "项链": "necklace"
+        }
+    }
+} 

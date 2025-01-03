@@ -1,0 +1,2 @@
+# comfyui_body_selector
+一个非常简单的身体部位和衣服的预设英文提示词的插件。
